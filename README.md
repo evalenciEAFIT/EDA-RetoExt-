@@ -121,4 +121,4 @@ Este proyecto te desafía a aplicar tus conocimientos de estructuras de datos y 
 
 Recuerda consultar frecuentemente el documento del parcial inicial para asegurarte de cumplir con todos los requisitos específicos del reto.
 
-¡Éxito en tu implementación y que disfrutes del proceso de desarrollo!
+
