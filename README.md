@@ -95,7 +95,7 @@ int main() {
    ```
 3. Ejecuta el programa:
    ```
-   ./evaluador
+   ./run
    ```
 
 ## Criterios de Evaluación
